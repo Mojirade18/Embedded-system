@@ -16,9 +16,6 @@ It improves **energy efficiency** by switching lights ON only when necessary and
 
 ## 📂 Repo Structure
 
-### 💡 Project 1 – Smart Lighting System
-## 📂 Repo Structure
-
 ```text
 Project-1-Smart-Lighting-System/
 ┣ 📂 code/
