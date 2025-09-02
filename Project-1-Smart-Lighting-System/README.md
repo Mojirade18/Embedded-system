@@ -1,8 +1,8 @@
 # 💡 Smart Lighting System  
 
-![C++](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-green?logo=arduino)
-![IoT](https://img.shields.io/badge/Focus-IoT-yellow?logo=internetofthings)
+![IoT](https://img.shields.io/badge/Focus-IoT-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
