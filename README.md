@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Embedded Systems Portfolio Banner" width="800"/>
+</p>
+
 # 🌍 Embedded Systems Projects Portfolio  
 
 ![C++](https://img.shields.io/badge/Code-C++-blue?logo=c%2b%2b)
