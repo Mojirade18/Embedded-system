@@ -16,16 +16,21 @@ It improves **energy efficiency** by switching lights ON only when necessary and
 
 ## 📂 Repo Structure
 
+### 💡 Project 1 – Smart Lighting System
+## 📂 Repo Structure
+
+```text
 Project-1-Smart-Lighting-System/
- ┣ 📂 code/
- ┃ ┗ smart_lighting.ino
- ┣ 📂 schematics/
- ┃ ┗ smart-lighting-circuit.png
- ┣ 📂 docs/
- ┃ ┗ system-flowchart.png
- ┣ 📂 assets/
- ┃ ┣ demo.gif
- ┃ ┗ prototype.jpg
- ┗ 📜 README.md
- 
+┣ 📂 code/
+┃ ┗ smart_lighting.ino
+┣ 📂 schematics/
+┃ ┗ smart-lighting-circuit.png
+┣ 📂 docs/
+┃ ┗ system-flowchart.png
+┣ 📂 assets/
+┃ ┣ demo.gif
+┃ ┗ prototype.jpg
+┣ 📜 BOM.md
+┗ 📜 README.md
+
 
